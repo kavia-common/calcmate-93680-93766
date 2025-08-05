@@ -1,0 +1,21 @@
+{
+  "name": "calcmate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CalcMate - a web-based educational calculus calculator.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "katex": "^0.16.8",
+    "mathjs": "^11.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "jspdf": "^2.5.1",
+    "html2canvas": "^1.4.1"
+  }
+}
